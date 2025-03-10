@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Brian Gainer 👋</h1>
-<h3 align="center">QA Analyst sample for Selenium Coding projects</h3>
+<h3 align="center">QA Analyst sample for Coding projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgainer&label=Profile%20views&color=0e75b6&style=flat" alt="bgainer" /> </p>
 
@@ -7,10 +7,10 @@
 - SAMPLE CODE OF DIFFIRENT PROJECTS
 1. [https://github.com/bgainer1/Tableau-Sample-1)
 2. [https://github.com/bgainer1/PYTHON-repo) 
-3.   
+3. [https://github.com/bgainer1/Selenium-Samples)    
 
 
-- 👨‍💻 All of my projects are available at [(https://github.com/bgainer1/Selenium-Samples)
+- 👨‍💻 All of my projects are available in the links at [https://github.com/bgainer1/Master)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
