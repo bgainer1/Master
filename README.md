@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgainer&label=Profile%20views&color=0e75b6&style=flat" alt="bgainer" /> </p>
 
 - 🔭 I’m currently working on several different projects for coding and business intelligence.
-- SAMPLE CODE OF DIFFIRENT PROJECTS
-1. [https://github.com/bgainer1/Tableau-Sample-1)
-2. [https://github.com/bgainer1/PYTHON-repo) 
-3. [https://github.com/bgainer1/Selenium-Samples)    
+- SAMPLE CODE OF DIFFERENT PROJECTS
+1. Tableau:  [https://github.com/bgainer1/Tableau-Sample-1)
+2. Python:   [https://github.com/bgainer1/PYTHON-repo) 
+3. Selenium: [https://github.com/bgainer1/Selenium-Samples)    
 
 
 - 👨‍💻 All of my projects are available in the links at [https://github.com/bgainer1/Master)
